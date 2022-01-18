@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Merriweather&family=Oswald:wght@300;400&family=Source+Sans+Pro:wght@300&display=swap');
+*  {
+margin: 0 auto;
+padding: 0;
+border: none;
+max-width: 1400px;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    font-weight:400;
+    color: #333333;
+}
+
+/*headings and main title*/
+
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #1a1a1a;
+}
+
+#maintitle {
+    float: left;
+    font-size:200%;
+    margin-left: 20px;
+    height: 65px;
+}
+
+/* navigation bar */
+.nav {
+    height: 65px;
+
+}
+
+#navbar {
+    font-size: 130%;
+    letter-spacing: 3px;
+}
+
+#maintitle #navbar {
+    height: 85px;
+    position: relative;
+}
+
+#navbar li{
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
