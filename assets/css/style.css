@@ -80,3 +80,52 @@ text-align: center;
     overflow-y: scroll;
     scroll-behavior: smooth;
 }
+
+/* flexbox section */
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+/* hover text in image */
+
+.textoverimage {
+   
+    background-size: 100%;
+    background-position: center ; 
+}
+.textoverimage:hover {
+    background-size: cover;
+}
+.textoverimage:after {
+    position: absolute;
+    top: 90%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    word-wrap: break-word;
+    overflow: hidden;  
+    font: bolder;
+    font-weight: 700;
+    background-color: lightgrey;
+    color:maroon;
+    padding: 0 8px;
+    content: attr(data-text);
+    transition: 0.5s;
+}
+
+.textoverimage:hover:after {
+ top: 0;
+ padding:8px;
+ opacity: 0.7;
+}
+
+.textoverimage:first-line {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
