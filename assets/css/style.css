@@ -129,3 +129,105 @@ text-align: center;
     font-weight: bolder;
     font-size: 1.5rem;
 }
+
+
+/* flexbox items style */
+
+.flex-item-1 {
+    width: 300px;
+    height: 300px;
+    background: url('../images/Nicéphore_Niépce_Oldest_Photograph_1825.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px grey);
+}
+
+.flex-item-2 {
+    width: 300px;
+    height: 300px;
+    background: url('../images/First_Image_Joseph_Nicephore_Niepce_1826-1827.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px grey);
+}
+
+
+.flex-item-3 {
+    height: 300px;
+    width: 300px;
+    background:url('../images/RobertCornelius_1839.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px grey);
+}
+
+
+.flex-item-4 {
+    height: 300px;
+    width: 300px;
+    background:url('../images/Dorothy_Catherine_Draper_crop.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px grey);
+}
+
+
+.flex-item-5 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/Roger_Fenton\'s_waggon_1855.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #666666);
+}
+
+.flex-item-6 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/First_Aerial_Photography_1860.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #666666);
+}
+
+.flex-item-7 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/First_Color_Print_1877.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #666666);
+}
+
+.flex-item-8 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/First_Wildlife_Photograpfy_1895.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #666666);
+}
+
+.flex-item-9 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/London_\,_Kodachrome_1949.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #404040);
+}
+
+.flex-item-10 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/KodaChrome_1967_4Year_Old.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #404040);
+}
+
+.flex-item-11 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/first-digital-image.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #404040);
+}
+
+.flex-item-12 {
+    height: 300px;
+    width: 300px;
+    background: url('../images/Digital_cameras_1975_Kodaks.jpg') no-repeat center center;
+    background-size: cover;
+    filter: drop-shadow(10px 10px 5px #404040);
+}
