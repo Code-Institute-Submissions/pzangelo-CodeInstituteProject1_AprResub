@@ -231,3 +231,39 @@ text-align: center;
     background-size: cover;
     filter: drop-shadow(10px 10px 5px #404040);
 }
+
+
+  /*about us section */
+
+  .about-us {
+    height: 250px;
+    width: 1400px;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: maroon;
+}
+
+   .aboutus-title {
+       font-size: 200%;
+       text-align: center;
+       color: mintcream;
+   }
+
+   .contact-us{
+       color: mintcream;
+       text-align: left;
+       margin-left: 40px;
+   }
+
+   .contact-us h3 {
+       color: mintcream;
+   }
+
+.carmarthen {
+    height: 150px;
+    width: 150px;
+    background: url('../images/carmarthen\ camera\ centre.jpg') no-repeat center center;
+    background-size: cover;
+    float: right;
+    margin-right:75px;
+}
