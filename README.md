@@ -25,8 +25,13 @@ The Footer
  The footer section includes links to the relevant social media sites.The links will open up in a new tab to allow easy navigation to the user.
 ![readme3-2](https://user-images.githubusercontent.com/83747119/150001279-d000cc1e-d817-43df-9137-ca73243492da.png)
 
+TESTING
+Validator Tester:
 
+CSS Validation:
 On the following images we can see that the code has been checked and there are no bugs or errors found on it.
 ![readme5](https://user-images.githubusercontent.com/83747119/150001717-c4753ae9-de80-46cf-848c-237c25a3490f.png)
 
+
+HTML Validation:
 ![readme6](https://user-images.githubusercontent.com/83747119/150001729-c3d6f23c-2d6e-40b9-888e-aeaae2632553.png)
