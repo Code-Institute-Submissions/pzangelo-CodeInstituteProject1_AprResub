@@ -343,3 +343,53 @@ text-align: center;
     color: #fff;
 }
  
+
+/* Media queries */
+
+@media screen and (max-width:1200px) {
+   
+   
+    .flex-container {
+        display: flex;
+        align-items: center;
+        justify-content:space-around;
+    }
+
+    .flexmedia {
+        width: 250px;
+        height:250px;  
+        background-size: cover;  
+    }
+
+    .briefhistory {
+        height: 350px;
+        max-width:100%;
+    }
+    
+    .briefhistory p {
+        text-align: center;
+    }
+
+    #maintitle {
+        font-size:110%;
+        margin-left: 20px;
+        height: 65px;
+    }
+    #navbar {
+        font-size: 110%;
+    }
+
+    #topbar {
+        height: 200px;
+        width: 100%;
+    }
+    .about-us {
+        height: 250px;
+        width: 100%;
+}
+
+.sign-up {
+    height: 400px;
+    width: 100%;
+}
+}
