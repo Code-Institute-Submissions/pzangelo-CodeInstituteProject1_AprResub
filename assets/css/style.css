@@ -500,3 +500,93 @@ text-align: center;
     font-size: 60%;
 }
 }
+
+
+@media only screen  and (max-width:600px) {
+ 
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .flexmedia {
+        width: 300px;
+        height: 300px;
+        background-size: cover;
+    }
+    
+    .foot {
+        height: 30px;
+        width:100%;
+    }
+    
+    .social   > li {
+        display: inline;
+    }
+    
+    .social a {
+        font-size: 50%;
+    }
+    
+    #maintitle {
+        float: left;
+        font-size:50%;
+        margin-left: 20px;
+        height: 35px;
+    }
+    
+    .nav{
+        height: 40px;
+    }
+    #navbar {
+        float: left;
+        font-size: 50%;
+        letter-spacing: 3px;
+        margin-left: 30px;
+    }
+    #topbar {
+        height: 200px;
+        width: 100%;
+        background-size: cover;
+    }
+    
+    .briefhistory {
+        height: 300px;
+        width:100%;
+    }
+    
+    .briefhistory p {
+        text-align: center;
+    }
+    
+    .briefhistory h3 {
+        align-items: center;
+        margin: 2%;
+    }
+    .about-us {
+        height: 120px;
+        width: 100%;
+    }
+    .aboutus-title {
+        font-size: 80%;
+    
+    }
+    .contact-us{
+        color: mintcream;
+        padding-left: 10px;
+        font-size: 30%;
+    }
+    .carmarthen {
+     height: 60px;
+     width: 60px;
+     
+    }
+    
+    .sign-up {
+        max-height: 350px;
+        max-width: 100%;
+    }
+    }
+    
