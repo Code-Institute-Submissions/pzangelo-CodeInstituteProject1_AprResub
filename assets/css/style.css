@@ -319,3 +319,27 @@ text-align: center;
     background-color: #fafafa;
     color: #f16c6b;
     }
+
+    
+/*   footer section */
+
+.foot {
+    height: 50px;
+    max-width: 1400px;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: maroon;
+    text-align: center;
+}
+
+.social > li {
+    display: inline;
+}
+
+.social a {
+    font-size: 160%;
+    margin: 1%;
+    padding: 3%;
+    color: #fff;
+}
+ 
