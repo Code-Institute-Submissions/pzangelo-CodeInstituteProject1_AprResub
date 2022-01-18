@@ -18,7 +18,7 @@ EXISTING FEATURES
 The main focus of the project is the section showing images with a hiden text attach to them. The text can be seen by hoovering over the image
 ![readme2](https://user-images.githubusercontent.com/83747119/149999924-3b636bcc-82a3-46fd-a382-7f89d141fbb2.png)
 
-The sigh up section is a section where the user can subscribe for news and events from our shop.
+The sigh up section is a section where the user can subscribe for news and events.
 ![readme3-1](https://user-images.githubusercontent.com/83747119/150000045-008201fa-6c84-4bc1-a96d-818c8947856d.png)
 
 The Footer
@@ -26,3 +26,7 @@ The Footer
 ![readme3-2](https://user-images.githubusercontent.com/83747119/150001279-d000cc1e-d817-43df-9137-ca73243492da.png)
 
 
+On the following images we can see that the code has been checked and there are no bugs or errors found on it.
+![readme5](https://user-images.githubusercontent.com/83747119/150001717-c4753ae9-de80-46cf-848c-237c25a3490f.png)
+
+![readme6](https://user-images.githubusercontent.com/83747119/150001729-c3d6f23c-2d6e-40b9-888e-aeaae2632553.png)
