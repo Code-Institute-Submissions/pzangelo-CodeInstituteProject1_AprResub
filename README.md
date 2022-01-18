@@ -9,3 +9,14 @@ It will provide the user with the brief history of the period which will be the 
 
 The Image is showing how the project looks like on different devices:
 ![readme4](https://user-images.githubusercontent.com/83747119/149998076-512e3ad7-b502-46f8-91f8-05a1db887816.png)
+
+EXISTING FEATURES 
+  Navigation Bar
+     Featured the Title and the lings to the sections of the page.Below the bar is the main image showing different cameras of the years.
+     ![readme1](https://user-images.githubusercontent.com/83747119/150000598-7081af08-97ff-43db-80d4-6ba731de1a7c.png)
+
+The main focus of the project is the section showing images with a hiden text attach to them. The text can be seen by hoovering over the image
+![readme2](https://user-images.githubusercontent.com/83747119/149999924-3b636bcc-82a3-46fd-a382-7f89d141fbb2.png)
+
+The sigh up section :
+![readme3-1](https://user-images.githubusercontent.com/83747119/150000045-008201fa-6c84-4bc1-a96d-818c8947856d.png)
