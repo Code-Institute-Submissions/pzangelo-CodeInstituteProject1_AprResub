@@ -38,7 +38,8 @@ HTML Validation:
 ![readme6](https://user-images.githubusercontent.com/83747119/150001729-c3d6f23c-2d6e-40b9-888e-aeaae2632553.png)
 
 LightHouse Validation:
-[Screenshot (10)](https://user-images.githubusercontent.com/83747119/162609338-f1249dc1-c9cc-43d7-a6b5-701a2a85e15e.png)
+
+![readme7](https://user-images.githubusercontent.com/83747119/162610017-1222e57f-7030-4793-8c0f-f9399332b3c1.png)
 
 Upload Link GitHub:
 https://pzangelo.github.io/CodeInstituteProject1/
