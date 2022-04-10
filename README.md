@@ -28,6 +28,7 @@ The Footer
 TESTING
 Validator Tester:
 
+
 CSS Validation:
 On the following images we can see that the code has been checked and there are no bugs or errors found on it.
 ![readme5](https://user-images.githubusercontent.com/83747119/150001717-c4753ae9-de80-46cf-848c-237c25a3490f.png)
@@ -35,3 +36,8 @@ On the following images we can see that the code has been checked and there are 
 
 HTML Validation:
 ![readme6](https://user-images.githubusercontent.com/83747119/150001729-c3d6f23c-2d6e-40b9-888e-aeaae2632553.png)
+
+LightHouse Validation:
+[Screenshot (10)](https://user-images.githubusercontent.com/83747119/162609338-f1249dc1-c9cc-43d7-a6b5-701a2a85e15e.png)
+
+Upload Link GitHub
