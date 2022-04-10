@@ -40,4 +40,5 @@ HTML Validation:
 LightHouse Validation:
 [Screenshot (10)](https://user-images.githubusercontent.com/83747119/162609338-f1249dc1-c9cc-43d7-a6b5-701a2a85e15e.png)
 
-Upload Link GitHub
+Upload Link GitHub:
+https://pzangelo.github.io/CodeInstituteProject1/
